@@ -1,22 +1,20 @@
 Hello~
 
-I am EpicJohn11,
-I am an Animator
-I have been animating for 2 years
-I also am a programmer
-I can animate in Wick Editor and Macromedia Flash 8
-I can code in: HTML, CSS, JavaScript, Python, VBS, GDScript (godot)
+I am EpicJohn,
+I am a YouTuber
+As of 09/18/22, I have 6.07K Subscribers.
+I also am a Game Developer
+I primairly use the Unity Engine, but want to learn others.
+I code in HTML, JavaScript, C#, and Python.
 
 My current goals are:
-- Reach 1K Subscribers (YT)
-- Reach 100 Fans (NG)
-- Learn C++ and C#
-- Collaborate with other animators
+- Learn C++
+- Reach 10K Subscribers
+- Reach 1M
 
-YouTube - https://www.youtube.com/c/EpicJohn
-Newgrounds - https://epicjohn11.newgrounds.com/
+YouTube - https://www.youtube.com/c/EpicJohnVR
 
-My email where you may send fan mail, ask for collaborations, etc. is: epicjohn11animations@yahoo.com
+My email where you may send fan mail, ask for collaborations, etc. is: epicjohngaming@gmail.com
 
 
 Thank you for reading~
