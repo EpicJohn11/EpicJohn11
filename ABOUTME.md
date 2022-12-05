@@ -1,12 +1,15 @@
-Hi!
+Hello!
 
-My name is John Fiore, otherwise known as EpicJohn, and I am a VR YouTuber, and Game Developer. With YT, I primairly focus on a game called "Gorilla Tag" created by a guy named Kerestell Smith (LemmingVR) and his team, AnotherAxiom. And as of November 16, 2022, I have 9,400 subscribers. My games are made using the Unity Game Engine, which utilizes the C# programming language.
+My name is John Fiore, and I am a 14 year old YouTuber and Game Developer.
 
-My current goals are:
-- Reach 10,000 Subscribers
-- Reach 100,000 Subscribers
-- Release a Full Game with a Full Storyline
-- Learn C++ and overall how to use Unreal Engine (4 or 5)
+I make YouTube videos where I play Gorilla Tag, a VR game developed by Another Axiom, which is free on Meta Quest's App Lab and Steam. I also play other games such as Rec Room, VRChat, and others. As of December 5, 2022, I have over 10,000 subscribers.
+
+My games are mainly made using the Unity Game Engine. The game I am most proud of is called The Liminalverse. It was never and will never be finished, as the original files were on a now corrupted hard drive. However I am currently working on a game called The Monke Chronicles, which you can find more info at this link: https://epicjohn-studios.itch.io/tmc
+
+https://epicjohn11.itch.io/the-liminalverse
+
+
+
 
 My website with additional information - https://epicjohnvr.github.io/site
 
